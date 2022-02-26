@@ -1,6 +1,6 @@
 # “Use your Energy for the Service of Humanity”
 - 👋 Hi, I’m Suneeth Taneja {@techSun-07}
-- 👀 I’m interested in exporing Tech World.
+- 👀 I’m interested in exploring Tech World.
 - 🌱 I’m currently learning Mean Stack.
 - 🌀 I’m looking to collaborate on Web Development.
 - 🎨 I'm also Graphic Designer Fanatic.
