@@ -4,20 +4,25 @@
 - 🌱 I’m currently learning Mean Stack.
 - 🌀 I’m looking to collaborate on Web Development.
 - 🎨 I'm also Graphic Designer Fanatic.
- <hr>
+ <br>
  
 ## About Me
-<p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. A coder<⁄> by brain, with a spiritual heart💙 and a creative🎨 mind. I love to explore non-fiction and different genres of books📚. I am not the kind of person who’s into partying and all but if you want to have deep conversations on some crazy topics, don’t hesitate to ping📌 me up. Not to forget, hustling with Science and Technology👩‍💻 requires a lot of patience.</p>
-  <hr>
+<p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. <em><b>A coder<⁄> by brain, with a spiritual heart💙 and a creative🎨 mind.</em></b> I love to explore non-fiction and different genres of books📚. I am not the kind of person who’s into partying and all but if you want to have <em><b>deep conversations on some crazy topics, don’t hesitate to ping📌 me up.</em></b> Not to forget,<em><b> hustling with Science and Technology👩‍💻 requires a lot of patience.</em></b></p>
+
+ <br>
   
- ## 📧📌Reach Out🐧
+ ## 📧📌Connect With Me🐧
  <a href="https://twitter.com/SuneethTaneja"> <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" /></a>
  <a href="mailto:suneethtaneja@gmail.com"><img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
  <a href="https://www.linkedin.com/in/suneeth-taneja/"><img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a>
  <a href="https://github.com/techSun-07">:octocat:</a>
  <a href="https://www.instagram.com/suneeth_07/"><img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
+ 
  <hr>
  
+ ## <Visitor's Count>🧐
+ ![VisitorCount](https://profile-counter.glitch.me/techSun-07/count.svg) 
+ <hr>
  
  ## Skill-Set🚀
  <div>
@@ -47,7 +52,7 @@
  
   ![Suneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=techSun-07&show_icons=true&theme=tokyonight)
  
- <hr>
+
 
 
 <!---
