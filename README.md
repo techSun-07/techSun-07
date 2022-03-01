@@ -1,9 +1,10 @@
 # “Use your Energy for the Service of Humanity”
-- 👋 Hi, I’m Suneeth Taneja {@techSun-07}
-- 👀 I’m interested in exploring Tech World.
-- 🌱 I’m currently learning Mean Stack.
-- 🌀 I’m looking to collaborate on Web Development.
-- 🎨 I'm also Graphic Designer Fanatic.
+- 🙏 <em><b>Namaskaram GitHub Folks</b></em>
+- 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>
+- 👀 I’m interested in exploring <em><b>Tech World.</em></b>
+- 🌱 I’m currently learning <em><b>Mean Stack.</em></b>
+- 🌀 I’m looking to collaborate on <em><b>Web Development & Graphic Designing.</em></b>
+- 🎨 I'm also <em><b>Graphic Designer</em></b> Fanatic.
  <br>
  
 ## About Me
