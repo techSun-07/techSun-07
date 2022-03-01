@@ -5,7 +5,7 @@
 - 🌀 I’m looking to collaborate on Web Development.
 - 🎨 I'm also Graphic Designer Fanatic.
  <hr>
-
+ 
 ## About Me
 <p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. A coder<⁄> by brain, with a spiritual heart💙 and a creative🎨 mind. I love to explore non-fiction and different genres of books📚. I am not the kind of person who’s into partying and all but if you want to have deep conversations on some crazy topics, don’t hesitate to ping📌 me up. Not to forget, hustling with Science and Technology👩‍💻 requires a lot of patience.</p>
   <hr>
@@ -43,6 +43,12 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> &nbsp;
 </div>
  
+ <hr>
+ 
+  ![Suneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=techSun-07&show_icons=true&theme=tokyonight)
+ 
+ <hr>
+
 
 <!---
 techSun-07/techSun-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
