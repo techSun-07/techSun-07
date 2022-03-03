@@ -1,9 +1,14 @@
-# “Use your Energy for the Service of Humanity”
+# “Use your Energy for the Service of Humanity” 
+
+<br> 
+
+  <img align="Right" src="http://github-readme-streak-stats.herokuapp.com?user=techSun-  07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
+  
 - 🙏 <em><b>Namaskaram GitHub Folks</b></em>
-- 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>
+- 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>                                    
 - 👀 I’m interested in exploring <em><b>Tech World.</em></b>
 - 🌱 I’m currently learning <em><b>Mean Stack.</em></b>
-- 🌀 I’m looking to collaborate on <em><b>Web Development & Graphic Designing.</em></b>
+- 🌀 I’m looking to collaborate on <em><b>Web-Dev & Graphic Designing.</em></b>
 - 🎨 I'm also <em><b>Graphic Designer</em></b> Fanatic.
  <br>
  
