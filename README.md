@@ -21,7 +21,7 @@
  <a href="https://twitter.com/SuneethTaneja"> <img align="left" width="40px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" /></a>
  <a href="mailto:suneethtaneja@gmail.com"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
  <a href="https://www.linkedin.com/in/suneeth-taneja/"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /></a>
- <a href="https://github.com/techSun-07"><img  width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
+ <a href="https://github.com/techSun-07"><img  width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"></a><!--   https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png -->
  <a href="https://www.instagram.com/suneeth_07/"><img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
  
  <hr>
