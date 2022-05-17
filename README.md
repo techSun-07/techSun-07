@@ -7,8 +7,8 @@
 - 🙏 <em><b>Namaskaram GitHub Folks</b></em>
 - 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>                                    
 - 👀 I’m interested in exploring <em><b>Tech World.</em></b>
-- 🌱 I’m currently learning <em><b>Mean Stack.</em></b>
-- 🌀 I’m looking to collaborate on <em><b>Web-Dev & Graphic Designing.</em></b>
+- 🌱 I’m currently learning <em><b>MERN Stack.</em></b>
+- 🌀 I’m looking to collaborate on <em><b>Full Stack Web Development.</em></b>
 - 🎨 I'm also <em><b>Graphic Designer</em></b> Fanatic.
  <br>
  
