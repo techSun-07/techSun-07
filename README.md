@@ -1,8 +1,4 @@
-> # “Use your Energy for the Service of Humanity”
-
-<br> 
-
-  <img align="Right" src="http://github-readme-streak-stats.herokuapp.com?user=techSun-  07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
+> # “Use your Energy for the Service of Humanity”                                          
   
 - 🙏 <em><b>Namaskaram GitHub Folks</b></em>
 - 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>                                    
@@ -10,12 +6,13 @@
 - 🌱 I’m currently learning <em><b>MERN/MEAN Stack.</em></b>
 - 🌀 I’m looking to collaborate on <em><b>Full Stack Projects.</em></b>
 - 🎨 I'm also <em><b>Graphic Designer</em></b> Fanatic.
- <br>
+
+ <hr>
  
 ## About Me
 <p>I am a B.Tech. CSE student at Guru Nanak Dev University, Amritsar. <em><b>A coder<⁄> by brain, with a spiritual heart💙 and a creative🎨 mind.</em></b> I love to explore non-fiction and different genres of books📚. I am not the kind of person who’s into partying and all but if you want to have <em><b>deep conversations on some crazy topics, don’t hesitate to ping📌 me up.</em></b> Not to forget,<em><b> hustling with Science and Technology👩‍💻 requires a lot of patience.</em></b></p>
 
- <br>
+ <hr>
   
  ## 📧📌Connect With Me🐧
  <a href="https://twitter.com/SuneethTaneja"> <img align="left" width="40px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" /></a>
@@ -56,10 +53,12 @@
  
  <hr>
  
-  ![Suneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=techSun-07&show_icons=true&theme=tokyonight)
+ <img align="Center" src="http://github-readme-streak-stats.herokuapp.com?user=techSun-  07&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
  
-
-
+ 
+ <!---
+  ![Suneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=techSun-07&show_icons=true&theme=tokyonight)
+ --->
 
 <!---
 techSun-07/techSun-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
