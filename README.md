@@ -1,6 +1,11 @@
 > # “Use your Energy for the Service of Humanity”                                          
   
-- 🙏 <em><b>Namaskaram GitHub Folks</b></em>
+  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/git-icon.svg"> 
+  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio.svg"> 
+  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
+  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/java.svg">
+
+- 🙏 <em><b>Namaskaram GitHub Folks</b></em>  
 - 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>                                    
 - 👀 I’m interested in exploring <em><b>Tech World.</em></b>
 - 🌱 I’m currently learning <em><b>MERN/MEAN Stack.</em></b>
@@ -27,8 +32,10 @@
  ![VisitorCount](https://profile-counter.glitch.me/techSun-07/count.svg) 
  <hr>
  
- ## Skill-Set🚀
+ ## My Tech-Stack🚀
  <div>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> &nbsp;
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> &nbsp;
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> &nbsp;
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp;
@@ -41,6 +48,9 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> &nbsp;
  </div>
  <hr>
  
