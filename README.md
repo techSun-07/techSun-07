@@ -1,9 +1,9 @@
 > # “Use your Energy for the Service of Humanity”                                          
   
-  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/git-icon.svg"> 
-  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio.svg"> 
-  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
-  <img height="100px" align="right" src="https://cdn.svgporn.com/logos/java.svg">
+  <a href="https://git-scm.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/git-icon.svg"></a>
+  <a href="https://visualstudio.microsoft.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio.svg"></a>
+  <a href="https://code.visualstudio.com/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a>
+  <a href="https://docs.oracle.com/en/java/"><img height="100px" align="right" src="https://cdn.svgporn.com/logos/java.svg"></a>
 
 - 🙏 <em><b>Namaskaram GitHub Folks</b></em>  
 - 👋 Hey, I’m <em><b>Suneeth Taneja {@techSun-07}</em></b>                                    
